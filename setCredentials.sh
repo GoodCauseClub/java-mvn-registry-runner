@@ -37,7 +37,7 @@ echo "
         </repository>
         <repository>
           <id>github</id>
-          <url>${REPOSITORY_URL}</url>
+          <url>https://maven.pkg.github.com/brosproject/packages</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
